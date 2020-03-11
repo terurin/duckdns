@@ -1,0 +1,25 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.duckdns.org:443
+DEBUG:urllib3.connectionpool:https://www.duckdns.org:443 "GET /update?domains=terurin-lab&token=bf97a5c7-3f6e-4c7c-8d15-38a62cb86f58 HTTP/1.1" 200 None
+DEBUG:root:<Response [200]>
+2020-03-11 14:36:35,452 DEBUG urllib3.connectionpool :Starting new HTTPS connection (1): www.duckdns.org:443
+2020-03-11 14:36:36,208 DEBUG urllib3.connectionpool :https://www.duckdns.org:443 "GET /update?domains=terurin-lab&token=bf97a5c7-3f6e-4c7c-8d15-38a62cb86f58 HTTP/1.1" 200 None
+2020-03-11 14:36:36,228 DEBUG root :<Response [200]>
+2020-03-11 14:37:11,999 DEBUG urllib3.connectionpool :Starting new HTTPS connection (1): www.duckdns.org:443
+2020-03-11 14:37:12,788 DEBUG urllib3.connectionpool :https://www.duckdns.org:443 "GET /update?domains=terurin-lab&token=bf97a5c7-3f6e-4c7c-8d15-38a62cb86f58 HTTP/1.1" 200 None
+2020-03-11 14:37:25,261 DEBUG urllib3.connectionpool :Starting new HTTPS connection (1): www.duckdns.org:443
+2020-03-11 14:37:26,199 DEBUG urllib3.connectionpool :https://www.duckdns.org:443 "GET /update?domains=terurin-lab&token=bf97a5c7-3f6e-4c7c-8d15-38a62cb86f58 HTTP/1.1" 200 None
+2020-03-11 14:37:26,220 DEBUG root :OK
+2020-03-11 14:46:02,547 DEBUG urllib3.connectionpool :Starting new HTTPS connection (1): www.duckdns.org:443
+2020-03-11 14:46:03,459 DEBUG urllib3.connectionpool :https://www.duckdns.org:443 "GET /update?domains=terurin-lab&token=bf97a5c7-3f6e-4c7c-8d15-38a62cb86f58 HTTP/1.1" 200 None
+2020-03-11 14:46:03,478 DEBUG root :OK
+2020-03-11 14:50:43,287 DEBUG urllib3.connectionpool :Starting new HTTPS connection (1): www.duckdns.org:443
+2020-03-11 14:50:44,051 DEBUG urllib3.connectionpool :https://www.duckdns.org:443 "GET /update?domains=terurin-lab&token=bf97a5c7-3f6e-4c7c-8d15-38a62cb86f58 HTTP/1.1" 200 None
+2020-03-11 14:50:44,071 DEBUG root :OK
+2020-03-11 14:55:23,487 INFO schedule :Running job Every 1 minute do <lambda>() (last run: [never], next run: 2020-03-11 14:55:23)
+2020-03-11 14:55:23,512 DEBUG urllib3.connectionpool :Starting new HTTPS connection (1): www.duckdns.org:443
+2020-03-11 14:55:24,421 DEBUG urllib3.connectionpool :https://www.duckdns.org:443 "GET /update?domains=terurin-lab&token=bf97a5c7-3f6e-4c7c-8d15-38a62cb86f58 HTTP/1.1" 200 None
+2020-03-11 14:55:24,441 DEBUG root :OK
+2020-03-11 14:56:24,518 INFO schedule :Running job Every 1 minute do <lambda>() (last run: 2020-03-11 14:55:24, next run: 2020-03-11 14:56:24)
+2020-03-11 14:56:24,533 DEBUG urllib3.connectionpool :Starting new HTTPS connection (1): www.duckdns.org:443
+2020-03-11 14:56:25,414 DEBUG urllib3.connectionpool :https://www.duckdns.org:443 "GET /update?domains=terurin-lab&token=bf97a5c7-3f6e-4c7c-8d15-38a62cb86f58 HTTP/1.1" 200 None
+2020-03-11 14:56:25,435 DEBUG root :OK
